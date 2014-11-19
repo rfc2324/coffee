@@ -1,4 +1,4 @@
-# ![bohne](http://k40s.net/download/bohne32.png) coffee
+#coffee
 
 coffee is a CLI (command line interface) for RFC2324.
 
